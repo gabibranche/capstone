@@ -39,8 +39,8 @@ Old people talk: "Did you see a fish jump?" "Yes, but it did not go back in agai
  
 #### Papa Bois
 
-![](Papa Bois1.jpg)
-![](Papa Bois2.jpg)
+![](PapaBois1.jpg)
+![](PapaBois2.jpg)
 
 Papa Bois, also called Maitre Bois, lives in the forest and he is the father or protector of the animals that live there. He is often seen by hunters and other people who live near the forest. He gets animals out of snares and treats sick animals at his dwelling. He is an old man who is very hairy, like an animal and usually is only dressed in a pair of ragged trousers with a bamboo horn hanging from his belt. He can turn himself into the form of a large stag or any other animal as well to be able to observe the hunters unnoticed. He is usually very kind, but can be dangerous when crossed. He might even cast a spell on a bad hunter and turn him into a wild hog.
  
