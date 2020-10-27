@@ -12,7 +12,7 @@ After some trial and error I was able to get the flame to map onto the visual ca
 
 The first step was to map the flame onto the video capture to ensure that it was actually following the face. See [here](https://youtu.be/ZWt9PVc6I3w)
 
-![](flame1.jpg)
+![](flame1.png)
 
 The second step was to remove the vide so that only the flame could be seen to be projected onto the dancer. See [here](https://youtu.be/ZWt9PVc6I3w).
 
