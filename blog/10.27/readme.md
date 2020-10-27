@@ -24,9 +24,7 @@ I started working on Prototypes for the trees.
 
 I looked up some set designes for forest and used those to create my own set. 
 
-![](forest1.jpg)
-![](forest2.jpg)
-![](forest3.jpg)
+![](forest.jpg)
 
 
 From this I drafted up my own set that I realised should incorporate both real plants and the LED trees. 
@@ -41,7 +39,6 @@ After this I created a smaller prototype tree. The goal is to create 3-4 larger 
 ![](tree3.jpg)
 ![](tree4.jpg)
 
-![](prototype.jpg)
 
 The next step is to add the neopixels but I'm not sure how to include all of them with minimal wiring. 
 
