@@ -20,7 +20,7 @@ THe Douens story states that if the Douens hear a child's name after dark they w
 
 I worked on recording via processing and saving the recording. The next step would be to link it to audacity or another program so that I could distort it. 
 
-![](recording.jpg)
+![](recording.png)
 
 
 ## Next Steps
