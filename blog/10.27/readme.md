@@ -50,9 +50,9 @@ The next steps would be work on the body mapping and continue developping the tr
 
 ## Reflection
 
-I am really excited to see my capstone unfold. My Crit went really well and I got good solid feedbacl from my peers. Hearing them retail my project gave me a better sense of how the piece is being recieved. I realise there are many elements and I hope to make it all come together smoothly. However I cannot continue without acknowledging that I may have to narrow down. 
+I am really excited to see my capstone unfold. My Crit went really well and I got good solid feedback from my peers. Hearing them retail my project gave me a better sense of how the piece is being received. I realise there are many elements and I hope to make it all come together smoothly. However I cannot continue without acknowledging that I may have to narrow down. 
 
-As of right now I have elements of each scene that I can clearly envision but I don't have the all the elements of any one scene in particular. With each prototype and each step I make, I am more acutely aware of how large scale the project could be and have to conciously make an effort to bring it together and have it not spiral out of control.
+As of right now I have elements of each scene that I can clearly envision but I don't have the all the elements of any one scene in particular. With each prototype and each step I make, I am more acutely aware of how large scale the project could be and have to consciously make an effort to bring it together and have it not spiral out of control.
 
 One of the things that my peers mentioned in the Crit that I will be taking into consideration is the 'why'. I am not fully sure what I am trying to portray in this project and I honestly don't know if I even need a larger higher purpose. But it is still definitely something to think about. 
 
