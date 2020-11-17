@@ -10,7 +10,7 @@ I was supposed to look into kinect and work on audio and the LED Forest
 I started by refamiliarizing myself with kinect. Then I started integrating the flame. 
 I will have to work on manipulateling the threshold and making her movements affect the flames more now.
 
-See video of progress [here]()
+See video of progress [here](https://youtu.be/siNyLgZpOfw)
 
 ### Douens
 
