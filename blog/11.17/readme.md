@@ -16,7 +16,7 @@ See video of progress [here]()
 
 I was able to get record and playback to work by exploring the Minim library. I looked into manipulating the sound but haven't reached that far yet. Will look into it more in the future.
 
-See video of progress [here]()
+See video of progress [here](https://youtu.be/F8pt1dDJ5u0)
 
 ## Next steps
 
