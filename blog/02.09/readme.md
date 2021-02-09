@@ -12,8 +12,8 @@ In regards to Papa Bois, I met with Jon Bonner and we created a plan for making 
 
 I created vector files of some tress and sent of to Jon for testing with the CNC machine. One he gives the sign off we will start printing. 
 
-![](tree1.jpg)
-![](tree2.jpg)
+![](Tree2.png)
+![](Tree3.png)
 
 The above photos are images of the vector files for the trees. 
 
