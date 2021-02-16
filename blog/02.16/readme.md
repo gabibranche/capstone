@@ -6,7 +6,7 @@ I met with the Arts Center and finalized the details of my performance in the Bl
 
 ## What I did:
 
-The Script was finalized and could be read (here)[SouS2.pdf]
+The Script was finalized and could be read [here](SouS2.pdf)
 
 Additionally I am supposed to receive the first prototypes of the trees tomorrow (Wednesday)
 
@@ -14,7 +14,7 @@ I also started working with Sox but came into some admin level challenges and I 
 
 I also chose my dancers and reached out to them sharing their roles.
 
-Finally, I continued improving the Soucouyant. The video of the improvement can be found (here)[]
+Finally, I continued improving the Soucouyant. The video of the improvement can be found [here]()
 
 ## Next Steps
 
