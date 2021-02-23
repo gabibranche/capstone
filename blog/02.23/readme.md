@@ -10,6 +10,7 @@ I have been making good progress with the various aspects of my project. Hopeful
 
 #### Tech:
 For the Soucouyant I have started testing projection mapping using MadMapper to see how the flames look blown up. I am using average point tracking to follow the movement of the dancer. It has been a little difficult testing that because of the other stuff such as tables messing up the calculation. I spoke to Aaron about rectifying this and he said this should not be an issue in the black box. I am going to try clearing out my studio and trying it there.
+
 ![](madmapper.png)
 
 I also spoke to Aaron about the wiring in the Black Box and CHris suggested and he was very helpful.
