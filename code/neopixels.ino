@@ -42,6 +42,8 @@ int ledState = LOW;             // ledState used to set the LED
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
+  
+  //variables to manipulate neopixel colors
   Rcolor = 0;
   Gcolor = 150;
   Bcolor = 0;
@@ -62,6 +64,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
 
+  //checks the time to know if to change the lights
   CheckTime();
 
 //  digitalWrite(ledPin, ledState);
@@ -72,6 +75,7 @@ void loop() {
 void CheckTime() {
   unsigned long currentMillis = millis();
 
+  //increases the array index for each of the gunshot times
   for (int i = 0; i < 4; i++) {
     if (currentMillis > gunshotTime[i] && currentMillis < gunshotEnd[i]) {
       Rcolor = 150;
