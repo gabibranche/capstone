@@ -17,3 +17,5 @@ Below are some photos of the progress:
 ![](forest2.jpg) 
 
 ![](douens.jpg)
+
+![](poster.jpg)
