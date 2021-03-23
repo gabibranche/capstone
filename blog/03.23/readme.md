@@ -8,14 +8,14 @@ Below are some photos of my progress in the past week:
 
 The Trees are starting to come together
 
-![](broken.jpg)
+![](broken.JPG)
 
 One of the trees broke
 
 ![](fixed.jpg)
 It is currently in the process of being fixed
 
-![](granny.jpg)
+![](granny.PNG)
 
 Granny's Set up
 
