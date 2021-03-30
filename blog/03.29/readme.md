@@ -10,3 +10,7 @@ On Sunday I began rehearsing and filming the scenes in the Black Box. Below are 
 ![](4.JPG)
 ![](5.jpg)
 ![](6.jpg)
+![](7.jpg)
+![](8.jpg)
+![](9.jpg)
+![](10.jpg)
