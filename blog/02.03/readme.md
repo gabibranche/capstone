@@ -1,4 +1,4 @@
-# Blog Post 2
+# Blog Post #1 
 
 Updates: This week I focused on the dancers and recruitment. 
 
